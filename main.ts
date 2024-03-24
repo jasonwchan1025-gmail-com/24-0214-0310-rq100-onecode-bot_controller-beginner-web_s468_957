@@ -1040,7 +1040,7 @@ loops.everyInterval(3600000, function () {
                 )
                 led.plot(2, 2)
             } else {
-                if (true) {
+                if (false) {
                     quest_Note_1.quest_Show_String_For_Note_Small_Func(
                     "Gear: Lo"
                     )
