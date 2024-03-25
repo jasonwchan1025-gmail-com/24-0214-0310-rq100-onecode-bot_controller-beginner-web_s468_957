@@ -685,6 +685,11 @@ setup_BotAndController_Func()
     )
 }
 basic.forever(function () {
+    quest_Note_1.quest_Show_String_For_Note_Small_Func(
+    "24-0325-0540"
+    )
+})
+basic.forever(function () {
     if (true) {
         quest_Note_3.quest_Show_String_For_Note_Big_Func(
         "Send Network Message to 'B'ot:: Controller_Joystick: Joystick"
